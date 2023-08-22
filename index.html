@@ -18,11 +18,19 @@
                 <h1>Login</h1>
                 <p>Seja bem vindo novamente. Faça login para accessar sua conta.</p>
                 <form action="login.php" method="post">
-                    <label for="iUsername"><span class="material-symbols-outlined">account_circle</span></label>
-                    <input type="text" name="username" id="iUsername">
+                    <div id="campo">
+                        <label for="iUsername"><span class="material-symbols-outlined">account_circle</span></label>
+                        <input type="email" name="username" id="iUsername" required placeholder="Seu email">
+                    </div>
                     <br>
-                    <label for="iSenha"><span class="material-symbols-outlined">lock</span></label>
-                    <input type="text" name="senha" id="iSenha">
+                    <div id="campo">
+                        <label for="iSenha"><span class="material-symbols-outlined">lock</span></label>
+                        <input type="password" name="senha" id="iSenha" required minlength="8" placeholder="Sua senha">
+                    </div>
+                    <br>
+                    <input type="submit" value="Login">
+                    <input type="checkbox" name="lembrar" id="iLembrar"> Manter-me conectado.
+                    <a class="botao" href="esqueci.html"> Esqueci a senha <span class="material-symbols-outlined">mail</span></a>
                 </form>
             </div>
         </section>
