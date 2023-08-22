@@ -61,14 +61,14 @@ section#login > div#formulario{
 }
 
 div#campo > input{
-    width: 80%;
+    width: calc(100% - 35px);
     border: none;
-    transform: translateY(-6px);
+    transform: translateY(-7px);
 }
 
 div.campo > span{
+    width: 40px;
     color: black;
-    padding: 5px;
 }
 
 div#formulario > h1{
