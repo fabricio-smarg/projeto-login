@@ -9,7 +9,6 @@
     --cor05: #F2E8DF;
 }    
 
-
 *{
     padding: 0px;
     margin: 0px;
@@ -51,7 +50,6 @@ section#login > div#imagem{
     background-size: cover;
     background-position: right bottom;
 }
-
 
 div#formulario{
     display: block;
