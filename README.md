@@ -1,5 +1,5 @@
 # Sobre o repositório
- Este repositório trata-se do desenvolvimento de uma interface de login como parte de um projeto educacional voltado ao curso de HTML5 e CSS3, oferecido pela plataforma Curso em Vídeo e ministrado pelo Professor Gustavo Guanabara.
+ Este repositório trata-se do desenvolvimento de uma interface de login como parte de um projeto educacional voltado ao curso de HTML5 e CSS3, oferecido pela plataforma <a href="https://www.cursoemvideo.com/">Curso em Vídeo</a> e ministrado pelo Professor Gustavo Guanabara.
 
 ### Tecnologias usadas
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
