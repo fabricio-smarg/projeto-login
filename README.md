@@ -1,2 +1,2 @@
 # projeto-login
- projeto de uma tela de login desenvolvido para estudo para o curso de html e css oferecido pela plataforma curso em video e ministrada pelo professor gustavo guanabara 
+ Trata-se do desenvolvimento de uma interface de login como parte de um projeto educacional voltado ao curso de HTML e CSS, oferecido pela plataforma Curso em Vídeo e ministrado pelo Professor Gustavo Guanabara.
